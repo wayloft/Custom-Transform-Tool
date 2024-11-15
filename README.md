@@ -1,26 +1,23 @@
 # Custom Transform Tool for Unity
 
-The **Custom Transform Tool** is a Unity Editor extension that enhances your ability to manipulate objects in your scenes. This tool provides advanced features for snapping, aligning, and transforming objects, making it invaluable for level designers, game developers, and 3D artists.
+The **Custom Transform Tool** is a powerful Unity Editor extension designed to enhance your object manipulation experience. Whether you’re a level designer, game developer, or 3D artist, this tool provides advanced features that make positioning, aligning, and transforming objects faster and more accurate.
 
 ## Features
 
-- **Advanced Snapping**  
-  Snap objects to a grid, vertices, or edges with precision. Configure snapping axes (X, Y, Z) and set custom grid sizes.
+- **Advanced Snapping Modes**  
+  Snap objects to a grid, vertices, or edges with precision, ensuring everything aligns perfectly in your scene.
 
 - **Effortless Alignment & Distribution**  
-  Align objects along axes (Center, Min, Max) and distribute them evenly with a single click.
+  Align objects based on center, minimum, or maximum positions and distribute them evenly with a single click.
 
 - **Parent/Child Management**  
-  Reparent selected objects or center children to their parents for better hierarchy organization.
-
-- **Transform Presets**  
-  Save and load transform presets for reuse in future projects.
-
-- **Transform History**  
-  Keep a history of object transformations and revert to previous states when needed.
+  Easily reparent objects or center children to their parents, streamlining your scene hierarchy management.
 
 - **Customizable Gizmos**  
-  Modify gizmo colors and sizes for better scene visualization.
+  Tailor the appearance of your transform gizmos to suit your preferences for better scene visualization.
+
+- **Transform Presets & History**  
+  Save and load transform presets, or revert to previous states with the built-in transform history.
 
 ## Installation
 
@@ -57,8 +54,12 @@ The **Custom Transform Tool** is a Unity Editor extension that enhances your abi
 ### Gizmo Customization
 - Configure gizmo colors and sizes for better visibility in the Scene view.
 
-## Contribution
-Feel free to contribute by submitting issues or pull requests. Suggestions for additional features are welcome!
+## Demo Video
+
+Check out this tool in action on YouTube:  
+[![Custom Transform Tool Demo](https://img.youtube.com/vi/_Q6EpI8vmWw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_Q6EpI8vmWw)
+
+Click the thumbnail to watch the video demonstration.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
